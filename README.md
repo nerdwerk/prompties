@@ -1,7 +1,28 @@
-PROMPTIES
-=========
+# PROMPTIES
 
-Here I collect Fun, Helpful, Creative Prompts I find all over the internets. 
+Here I collect Fun, Helpful, Creative Prompts I find all over the internets.
+
+## Categories
+
+### 💼 Work
+
+-   [Prioritize Tasks](work/prioritize_tasks.md) - Turn a brain dump into a focused plan.
+-   [Meeting Minutes](work/meeting_minutes.md) - Generate professional minutes from notes.
+-   [Email Polisher](work/email_polisher.md) - Professionally rewrite your emails.
+
+### 🖼️ Avatars
+
+-   [Professional Headshot](avatars/professional_shot.md) - Create a LinkedIn-ready photo.
+-   [Cartoon Style](avatars/cartoon_style.md) - Turn photos into cartoons (Pixar, Ghibli, etc.).
+
+### 🤝 Helpful
+
+-   [YouTube Summarizer](helpful/youtube_transcript.md) - Summarize video transcripts.
+-   [Complexity Simplifier](helpful/complexity_simplifier.md) - Explain Like I'm 5.
+
+### 🎨 Creative
+
+-   [Red Mean Marker](creative/red_mean_marker.md)
 
 ## How to use
 
